@@ -1,2 +1,2 @@
 # laninchowdhury.github.io
-![Banner](banner.png)
+![Banner](baner.png)
